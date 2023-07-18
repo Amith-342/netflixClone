@@ -189,13 +189,4 @@ window.addEventListener('scroll',()=>{
     }
 })
 
-const checkScroll = ()=>{
-    console.log("true: ",document.body.scrollTop) 
-    
-    return false;
-} 
-
-
-
-
 //Youtube api Key: AIzaSyBmjICdTfbCdDf_VPDYzE02ZYgD3kvkfmg
